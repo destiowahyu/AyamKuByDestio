@@ -1,0 +1,25 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/call"
+        app:showAsAction="never"
+        android:title="Call Center / SMS Center">
+    </item>
+    <item
+        android:id="@+id/map"
+        app:showAsAction="never"
+        android:title="Lokasi/Maps">
+    </item>
+    <item
+        android:id="@+id/upd"
+        app:showAsAction="never"
+        android:title="Update Profile">
+    </item>
+    <item
+        android:id="@+id/logout"
+        app:showAsAction="never"
+        android:title="Keluar">
+    </item>
+</menu>
